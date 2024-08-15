@@ -31,4 +31,4 @@ Profile views<br>
 </p>
 </h2>
 
-Feel free to further customize or let me know if you need any adjustments!
+https://discord.gg/starling 
