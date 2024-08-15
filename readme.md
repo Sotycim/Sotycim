@@ -4,12 +4,12 @@
 <p align="center"> 
 Profile views<br>
   
- <img src="https://profile-counter.glitch.me/aydocs/count.svg" />
+ <img src="https://profile-counter.glitch.me/sotycim/count.svg" />
 </p>
 
 [![GitHub Stats](https://img.shields.io/github/followers/sotycim?label=follow&style=social)](https://github.com/sotycim)&nbsp;
 
-## Languages and Technologies I Know:
+## I'm a Full Stack Developer
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
